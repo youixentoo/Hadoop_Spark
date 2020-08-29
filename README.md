@@ -10,6 +10,6 @@ I followed this guide for installing Spark:
 https://phoenixnap.com/kb/install-spark-on-windows-10
 
 ### Versions
-Spark version: 3.0.0
-Hadoop version: 3.2
-winutils version: 3.2.1
+Spark version: 3.0.0 <br>
+Hadoop version: 3.2 <br>
+winutils version: 3.2.1 <br>
